@@ -1,2 +1,2 @@
 # trePaaRad
-#thanks to Aina Kubow
+# thanks to Ania Kubow
